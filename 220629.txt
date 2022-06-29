@@ -1,0 +1,15 @@
+
+캐글 API 이용한 구글 코랩 연동
+연동 후 캐글 데이터 코랩에서 다운로드
+(https://han-py.tistory.com/279)
+
+가중평점 (평점수 고려)
+
+인구통계학기반 필터링
+
+콘텐츠기반 필터링
+- 개요 등 자연어 처리 (TF-IDFL Term Frequency-Inverse Document Frequency)
+- .drop_duplicates : 각 행별로 중복데이터 검토해 중복 데이터 삭제한 DataFrame 반환
+
+- ast 모듈(Abstract Syntax Trees) : 문법을 구조화
+- ast.literal_eval : 문자열을 딕셔너리/리스트 형태로 변환
