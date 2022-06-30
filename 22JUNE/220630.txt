@@ -1,0 +1,4 @@
+tensor & pandas 조작 복습
+
+선형대수
+- 
