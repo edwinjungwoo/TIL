@@ -1,0 +1,4 @@
+anime collaborative filtering
+
+- merged = rating.merge(anime_tv, left_on = 'anime_id', right_on = 'anime_id', suffixes= ['_user', ''])
+- merged.rename(columns = {'rating_user':'user_rating'}, inplace = True)
