@@ -1,0 +1,8 @@
+
+RecSys 스터디
+- 2장 코드 구현 발표
+- item based collaborative filtering
+- user based collaborative filtering
+
+D2L (Calculus)
+- 
