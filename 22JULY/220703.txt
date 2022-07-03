@@ -1,0 +1,12 @@
+
+CUAI 하계 컨퍼런스 준비
+- idea: 애니메이션 추천, 애니메이션 캐릭터 추천
+
+1. Contents-based
+캐릭터 추천 (외형 및 특징 기준)
+ID | Name | Anime | Gender | Hair Color | Tags | Introduction
+
+2. Item-based 
+애니메이션 추천 (사용자의 평점 활용해 유사도 계산 후 정렬)
+
+- 발표 자료 만들기 & 발표자 선정
