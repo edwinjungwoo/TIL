@@ -1,0 +1,11 @@
+
+git clone
+repository 복제
+
+pandas .loc 복습
+
+하계 컨퍼런스 dataset 전처리
+하계 컨퍼런스 ppt 제작
+
+Recommender Systems 3장 공부
+- 
