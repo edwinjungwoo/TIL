@@ -1,0 +1,25 @@
+
+
+CS231n Lecture 2 & 3 수강 및 노트 정리
+
+- Image classification
+- k-Nearest Neighbors
+- Hyperparameters
+- Cross-Validation
+- Linear Classification
+- Parametric Approach
+
+- Loss function
+- Multi-class SVM Loss (Hinge loss)
+- Regularization
+- Softmax Classifier (Multinomial Logistic Regression)
+- Optimization
+- Gradient Descent, Stochastic Gradient Descent
+
+내일은 Lecture 4 Neural Network 깊게 완전히 이해하며 학습할 것
+
+
+d2l 
+2.5 Automatic Differentiation
+2.6 Probability
+
