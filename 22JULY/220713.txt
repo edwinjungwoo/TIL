@@ -1,0 +1,12 @@
+
+CS231n Lecture 4 & 5 수강 및 노트 정리
+
+- Backpropagation 역전파
+- Neural Networks 신경망
+
+- Convolutional Neural Networks
+- Zero padding
+- Pooling (Max pooling)
+
+d2l
+3.1 Linear Regression
