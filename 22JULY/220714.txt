@@ -1,0 +1,23 @@
+
+CS231n Lecture 6 & 7 수강 및 노트 정리
+
+- Activation functions: sigmoid, tanh, ReLU
+- Data preprocessing
+- Weight Initialization: 0(X), small random numbers(X), "Xavier", "He" (O)
+- Batch Normalization
+- z-score normalization
+- Random search & Grid Search
+
+- SGD의 문제점과 다양한 optimization 기법
+- Regularization: Dropout
+- Data Augmentation: Horizontal flips, random crops and scales, color jitter ...
+- Transfer learning: pre-trained models
+
+d2l 
+3.1 Linear Regression
+
+AI challenge
+- Baseline code review
+
+CUAI conference
+- AutoEncoder 적용 방안 탐색
