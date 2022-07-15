@@ -5,8 +5,8 @@ vscode 로컬 연동
 
 CS231n Lecture 8 수강 및 노트 정리
 
-- 
-
+- CPU & GPU 차이
+- PyTorch framework 파악
 
 
 Recommender Systems Ch.4
