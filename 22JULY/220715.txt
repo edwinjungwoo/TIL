@@ -1,0 +1,12 @@
+
+mac OS 원격 서버 연결 (via terminal)
+리눅스 서버 사양 확인 등 명령어
+vscode 로컬 연동
+
+CS231n Lecture 8 수강 및 노트 정리
+
+- 
+
+
+
+Recommender Systems Ch.4
