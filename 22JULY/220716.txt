@@ -1,0 +1,4 @@
+
+Recommender Systems study - CH. 4
+
+Pre-trained model 간단히 이해

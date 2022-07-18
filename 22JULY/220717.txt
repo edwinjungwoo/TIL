@@ -1,0 +1,10 @@
+
+CS231n Lecture 9 수강 및 노트 정리
+
+- 
+- 
+- 
+
+
+zsh, fish shell, iterm2 설치 및 삭제
+
