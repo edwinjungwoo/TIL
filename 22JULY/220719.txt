@@ -12,3 +12,13 @@ CS231n Lecture 10 수강 및 노트 정리
 tmux & vim cheat sheet 만들기
 
 ResNet 논문 리뷰 Notion에 기록
+
+d2l
+3.2 Linear Regression Implementation from Scratch
+
+CUAI conference meeting
+
+- feature selection
+- 역할 분담 (나: description, synopsis tfidf 사용 후 유사도 기반 rank)
+
+sudo & bash ?
