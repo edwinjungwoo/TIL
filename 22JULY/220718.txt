@@ -1,0 +1,17 @@
+
+CS231n Lecture 9 수강 및 노트 정리
+
+- AlexNet(2012) 
+- VGG, GoogLenet(2014)
+- ResNet(2015)
+
+'Deep Residual Learning for Image Recognition' - ResNet paper review on Notion
++ code implementation (?)
+
+
+zsh, fish shell, iterm2 설치 및 삭제
+
+
+-서버 초기 세팅 및 사용법-
+
+tmux vim

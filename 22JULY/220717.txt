@@ -1,10 +1,11 @@
 
-CS231n Lecture 9 수강 및 노트 정리
+AI challenge domain knowledge 학습
 
-- 
-- 
-- 
+Protein은 AminoAcid(AA: 아미노산)으로 구성
+AA가 peptide 결합으로 연결 (1차 서열)
+1차 서열들이 alpha-helix / beta-sheet 구조로 연결 (2차 서열)
+2차 서열들의 결합이 3차 서열, 3차 서열들의 결합이 4차 서열
 
+Protein의 구조와 기능은 염기서열이 어떻게 구성된지에 따라 결정
 
-zsh, fish shell, iterm2 설치 및 삭제
-
+ESM과 dacon train data 염기 서열 제공 & input data로 사용

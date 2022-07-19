@@ -1,0 +1,14 @@
+
+CS231n Lecture 10 수강 및 노트 정리
+
+- Recurrent Neural Networks
+- vanilla RNN: 현재 입력값에 가중치 곱 + 과거 값에 가중치 곱 + 편향
+- 현재와 과거를 함계 고려해 미래 예측
+- Image Captioning (CNN + RNN)
+- RNN gradient flow와 문제점
+- LSTM
+
+
+tmux & vim cheat sheet 만들기
+
+ResNet 논문 리뷰 Notion에 기록
