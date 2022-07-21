@@ -1,3 +1,23 @@
 
 
 CUAI summer conference - 콘텐츠 기반 추천 시스템 
+
+개발 환경 구축
+iterm2
+oh my zsh
+agnoster
+https://ooeunz.tistory.com/21 참고
+
+
+docker pull : image 받아오기
+
+docker create : container 만들기
+
+docker start : 중단된 container 재실행
+
+*docker run : 새로운 container 만들고 실행하기
+
+docker exec -it : 컨테이너 입장 
+
+exit
+

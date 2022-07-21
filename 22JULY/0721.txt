@@ -1,0 +1,18 @@
+
+
+CS231n Lecture 11 수강 및 노트 정리
+
+
+- Semantic segmentation: Fully convolutional 
+Upsampling: Unpooling
+Unpooling: 
+1. Nearest neighbor
+2. Bed of nails
+3. Max unpooling
+4. Transpose convolution
+
+- Classification + Localization
+
+d2l
+3.2 Linear Regression Implementation from Scratch
+3.3 
