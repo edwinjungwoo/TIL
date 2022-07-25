@@ -1,0 +1,7 @@
+
+PyTorch Tutorials kr
+
+CUAI summer conference meeting
+
+- 각자 맡은 부분 code 공유
+- character recommendation 결과 비교

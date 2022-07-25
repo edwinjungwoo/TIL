@@ -1,0 +1,8 @@
+
+CS231n Lecture 12 수강 및 노트 정리
+
+- Unsupervised learning
+- Generative models
+- Pixel RNN & Pixel CNN
+- VAE (Variational Autoencoder)
+

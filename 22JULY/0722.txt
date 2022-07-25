@@ -2,6 +2,11 @@
 
 CS231n Lecture 12 수강 및 노트 정리
 
-- 
+- image 내 어떤 요소가 classification에 영향을 주는지 파악하기 위해 visualization
 
 Motional 세미나 
+
+d2l
+3.7 Weight Decay
+4.1 Softmax Regression
+4.2 The Image Classification Dataset
