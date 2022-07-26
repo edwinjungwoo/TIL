@@ -1,8 +1,19 @@
 
-CS231n Lecture 12 수강 및 노트 정리
+CS231n Lecture 12 & 13 & 14 & 15 수강 및 노트 정리
 
 - Unsupervised learning
 - Generative models
 - Pixel RNN & Pixel CNN
 - VAE (Variational Autoencoder)
+- GAN(Generative Adversarial Networks(
 
+- Deep reinforcement Learning
+- Policy gradients
+- Q-learning
+
+- Reinforcement learning
+- Markov Decision Process
+- Policy gradients
+- Actor-Critic Algorithm
+
+- Agenda: Algorithm, Hardware, Inference, Training

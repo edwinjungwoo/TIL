@@ -1,0 +1,19 @@
+
+CS224n Lecture 1 수강 및 노트 정리
+
+- WordNet 개념과 문제점
+- One-hot vectors
+- Distributional semantics 분포 의미론
+- Word vectors
+- Word2Vec
+- Softmax function
+
+CS224n Lecture 2 수강 및 노트 정리
+
+- Bag of words model
+- Optimization: Gradient Descent, SGD
+- SVD
+- meaning components
+- word vector evaluation
+
+CUAI summer conference 중간 발표
