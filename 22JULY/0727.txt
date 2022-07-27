@@ -1,0 +1,8 @@
+
+CS224n Lecture 3 수강 및 노트 정리
+
+- Namer Entity Recognition
+- Gradients: input output 개수마다 상이
+- Chain Rule (연쇄 법칙)
+- Backpropagation (역전파)
+
