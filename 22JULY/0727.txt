@@ -6,3 +6,12 @@ CS224n Lecture 3 수강 및 노트 정리
 - Chain Rule (연쇄 법칙)
 - Backpropagation (역전파)
 
+autorec 구현 ?
+
+d2l
+4.3 The Base Classification Model
+4.4 Softmax Regression Implementation from Scratch
+sum(0, keepdims=True)  # 차원 방향으로 sum
+4.5 Concise Implementation of Softmax Regression
+
+혁펜하임 딥러닝 1-1
