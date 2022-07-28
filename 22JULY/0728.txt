@@ -1,0 +1,6 @@
+
+Recommender Systems CH 5. 지식 기반 추천 시스템 노션 정리
+
+CS224n Lecture 4 수강 및 노트 정리
+
+- 
