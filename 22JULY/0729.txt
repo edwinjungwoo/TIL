@@ -1,0 +1,20 @@
+
+dacon 2022 AI challenge 제출일
+- gru
+- optimizer
+- layer node
+- gradient clipping
+
+CS224n Lecture 4 수강 및 노트 정리
+
+- Syntactic structure
+- Dependency parsing
+- Prepositional phrase attachment ambiguity
+- Coordination scope ambiguity
+- Adjectival/Adverbial modifier ambiguity
+- Dependency conditioning preferences
+- Methods of dependency parsing
+
+혁펜하임 딥러닝 
+1-2,3,4
+2-1
