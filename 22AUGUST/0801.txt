@@ -9,4 +9,4 @@ CS224n Lecture 5 & 6 수강 및 노트 정리
 - RNN (Recurrent Neural Network)
 
 - BPTT (Backpropagation through time
-- 
+-  
