@@ -14,3 +14,6 @@ CS224n Lecture 9 수강 및 노트 정리
 - Multi-head Cross-Attention
 
 Attention: Q dot product K , V와 가중합
+
+
+GNN based recommender systems
