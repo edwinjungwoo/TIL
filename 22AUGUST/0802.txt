@@ -17,3 +17,10 @@ Attention: Q dot product K , V와 가중합
 
 
 GNN based recommender systems
+item2Vec
+
+d2l
+4.5,6,7
+5.1,2,3,4,5,6,7
+
+일반적으로 층의 노드 수는 2의 거듭 제곱수로 설정 (계산 용이)
