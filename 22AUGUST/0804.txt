@@ -1,0 +1,7 @@
+
+CS224n Lecture 10 수강 및 노트 정리
+
+- Problems of vocab
+- Embedding process
+- subword token
+- BPE (Byte-Pair-Encoding)

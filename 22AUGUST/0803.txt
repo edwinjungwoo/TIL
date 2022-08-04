@@ -1,0 +1,26 @@
+
+CS224n Lecture 9 수강 및 노트 정리
+
+- Self-attention
+- Transformer *****
+- Encoder
+- Decoder
+- Word embedding + Positional representation
+- Multi-head attention
+- Residual Connection, Layer Normalization
+- Feed-forward
+
+- Masked Multi-head attention
+- Multi-head Cross-Attention
+
+Attention: Q dot product K , V와 가중합
+
+
+GNN based recommender systems
+item2Vec
+
+d2l
+4.5,6,7
+5.1,2,3,4,5,6,7
+
+일반적으로 층의 노드 수는 2의 거듭 제곱수로 설정 (계산 용이)
