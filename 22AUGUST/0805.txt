@@ -1,2 +1,9 @@
 
 Recommender Systems CH 6. Notion 정리
+
+GPT-1 논문 리뷰
+
+CS224n Lecture 11 & 12 수강 및 노트 정리
+
+- Question Answering
+- Natural Language Generation (NLG)
