@@ -5,3 +5,5 @@ CS224n Lecture 10 수강 및 노트 정리
 - Embedding process
 - subword token
 - BPE (Byte-Pair-Encoding)
+
+BERT 논문 리뷰 (Notion)
