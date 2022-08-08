@@ -1,9 +1,14 @@
 
 Contact
 
-CS224n Lecture 12 수강 및 노트 정리
+CS224n Lecture 12 & 13 수강 및 노트 정리
 
 - NLG (Natural Language Generation)
 - Teacher forcing
 - NLG decoding
 - Random sampling
+
+- Coreference Resolution
+- Mention detection: anaphora, cataphora
+- Mention pair, mention ranking
+- end-to-end model
