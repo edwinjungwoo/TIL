@@ -4,3 +4,12 @@ Contact
 CUAI 하계 컨퍼런스 
 - code 수정
 - paper 작성 역할 분담
+
+CS224n Lecture 14 수강 및 노트 정리
+
+- T5
+- Seq2Seq부터 NLP 모델 계보
+- Auto Encoding
+- Auto Regressive
+- Modified MLM
+- Transfer Learning 
