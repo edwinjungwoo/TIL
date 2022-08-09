@@ -12,3 +12,9 @@ CS224n Lecture 12 & 13 수강 및 노트 정리
 - Mention detection: anaphora, cataphora
 - Mention pair, mention ranking
 - end-to-end model
+
+혁펜하임
+3.3,4
+4
+5.1
+9
