@@ -1,0 +1,8 @@
+
+Contact
+
+DMQA 연구실 연구
+
+GNN, GCN
+
+Graph 기반 neural network
