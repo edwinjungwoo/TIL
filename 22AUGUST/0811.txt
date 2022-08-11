@@ -1,0 +1,4 @@
+
+Content-based filtering for recommendation systems using multi-attribute networks
+
+Recommender Systems - CHapter 7. Notion 정리
