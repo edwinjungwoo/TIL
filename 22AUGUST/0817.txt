@@ -1,0 +1,10 @@
+
+CS224n Lecture 15 & 17 수강 및 노트 정리
+- Language models: 1. masked 2. standard
+- Factually incorrect due to unseen facts, rare facts, model sensitivity
+- Adding knowledge to LM
+
+- Model analysis and explanation
+- Out-of-domain evaluation
+- adversarial examples
+- ablation
