@@ -1,0 +1,4 @@
+
+시계열 회귀분석 DMQA youtube 강의
+
+slack 활용
