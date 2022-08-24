@@ -2,3 +2,4 @@
 CS224n Lecture 18
 - Future of NLP + Deep Learning
 
+혁펜하임 Python Day1

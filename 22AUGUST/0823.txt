@@ -1,4 +1,7 @@
 
 시계열 회귀분석 DMQA youtube 강의
+Part 1 & Part 2 Note-taking
 
-slack 활용
+
+slack 활용법 숙지
+- medical-nlp project 참여
