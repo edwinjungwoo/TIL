@@ -1,0 +1,5 @@
+
+성모병원 NLP project
+- data preprocessing
+
+Python Day5 (혁펜하임)

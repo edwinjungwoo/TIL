@@ -1,0 +1,3 @@
+
+성모병원 NLP project
+- data preprocessing
