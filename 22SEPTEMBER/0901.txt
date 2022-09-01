@@ -1,0 +1,7 @@
+
+성모병원 project
+
+PI & PH 전처리 완료
+
+Representing Numbers in NLP: a Survey and a Vision
+- 논문 리딩 & 리뷰
