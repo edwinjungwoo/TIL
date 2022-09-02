@@ -5,3 +5,7 @@ PI & PH 전처리 완료
 
 Representing Numbers in NLP: a Survey and a Vision
 - 논문 리딩 & 리뷰
+
+
+문자열에서 숫자만 추출하는 법:
+https://codechacha.com/ko/python-extract-integers-from-string/
