@@ -1,2 +1,7 @@
 
 AI를 위한 프로그래밍 : 
+
+Colab
+Python basic
+
+성모병원 project 랩미팅 전 점검
