@@ -2,5 +2,5 @@
 Today I Learned:
 daily record
 
-Self-taught &
+Self-taught & Projects
 
