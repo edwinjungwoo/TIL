@@ -1,3 +1,4 @@
 성모병원 NLP
 - Dictionary 생성 먼저 (without hand-labeling)
-- 
+- 나이 / 체온 / 문진 양성
+
