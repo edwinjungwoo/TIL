@@ -1,2 +1,5 @@
 성모병원 NLP
 - 숫자 처리
+
+[Python] 리스트에서 특정 문자열만 추출 
+https://hengbokhan.tistory.com/73

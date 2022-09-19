@@ -1,0 +1,8 @@
+
+병원 project
+
+AI를 위한 프로그래밍
+- 
+
+PyTorch 기초
+- 
