@@ -1,8 +1,12 @@
 
 병원 project
+- BT
+- AGE
+- ROS
 
 AI를 위한 프로그래밍
-- 
+- Python basic II
 
 PyTorch 기초
-- 
+- Tensor
+- DataLoader, Dataset

@@ -1,0 +1,10 @@
+
+병원 project
+- ROS
+
+PyTorch 기초
+- 변형
+- 신경망 구축
+
+CUAI 정기 세션
+- 
