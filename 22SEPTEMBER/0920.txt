@@ -7,4 +7,5 @@ PyTorch 기초
 - 신경망 구축
 
 CUAI 정기 세션
-- 
+- 스터디
+- PyTorch 발표
