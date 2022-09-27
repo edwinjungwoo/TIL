@@ -3,5 +3,8 @@ AI를위한프로그래밍
 - NumPy
 
 NH투자증권
+- Data 뜯어보기
+- Baseline code 확인
 
-태블로
+Tableau
+- OT

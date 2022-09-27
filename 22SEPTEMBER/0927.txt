@@ -1,0 +1,8 @@
+
+NH투자증권
+- Risk 허용도 측면
+- KRX, ISIN dataset 확보
+
+ER-NLP
+- 
+
