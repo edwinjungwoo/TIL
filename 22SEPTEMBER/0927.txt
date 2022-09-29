@@ -4,5 +4,5 @@ NH투자증권
 - KRX, ISIN dataset 확보
 
 ER-NLP
-- 
+- 수치 범주화
 

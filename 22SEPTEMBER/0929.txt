@@ -1,0 +1,5 @@
+
+NH투자증권
+- bs로 crawling
+- kr_stock_info 확보
+- 결측치 hand-labeling
