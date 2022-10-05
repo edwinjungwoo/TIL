@@ -1,2 +1,11 @@
 
-ipdb - 코드 분석
+ipdb - 코드 분석 (iPython Debug)
+
+import ipdb
+
+ipdb.set_trace() 
+- 지정한 부분에서 코드가 멈춤
+- n: 다음 줄로 이동
+- c: 다음 set_trace() 까지 continue
+- exit: 나가기
+- 연습할 것
