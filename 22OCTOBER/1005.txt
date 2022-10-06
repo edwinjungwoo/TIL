@@ -9,3 +9,9 @@ ipdb.set_trace()
 - c: 다음 set_trace() 까지 continue
 - exit: 나가기
 - 연습할 것
+
+tensorboard : 학습 시각화
+
+Baseline ipdb로 뜯어보기 - PyTorch BERT tutorial
+
+huggingface - transformer 관련 코드 제공
