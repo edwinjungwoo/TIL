@@ -23,3 +23,5 @@ TODO:
 med2vec, 'clinical NLP' 구축된 dict 있는지 검색
 의학 용어, 한글 용어 통일
 
+나이: 생후 x일
+체온: x도 xC' peak x
